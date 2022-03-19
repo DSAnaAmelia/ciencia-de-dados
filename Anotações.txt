@@ -1,0 +1,22 @@
+Ciência de Dados
+
+Anotações sobre o processo de formação em Ciência da Dados com a indicação dos links de acesso do material
+
+- Data Science Academy
+
+Python Fundamentos: https://www.datascienceacademy.com.br/course/python-fundamentos - Em curso
+
+Introdução à Ciência de Dados: Completo
+
+Big Data Fundamentos: Completo 
+
+
+- MBA Ciência de Dados pelo ICMC-USP
+
+Introdução à Ciência de Dados - Em curso
+
+Programação Para Ciência de Dados - Em curso
+
+
+
+
